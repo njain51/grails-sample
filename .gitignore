@@ -8,5 +8,5 @@ out/
 *.ipr
 *.iws
 .project
-.settings
+.settingsbuil
 .classpath
