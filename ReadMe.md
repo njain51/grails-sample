@@ -42,6 +42,9 @@ notes/1.6_adding_model.md
 
 **Tag 1.2** - Adding data to model and presenting in view.
 ----------------------------------------------------------------------------------------------------------------
+notes/2.0_Designing_data_layer.md
+
+Tag 2.0 - Adding Domain Design and respective domain classes and field types. 
 
 ---------------------------------------------------------------------------------------------------------------- 
   
