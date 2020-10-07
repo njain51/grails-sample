@@ -10,9 +10,11 @@
 <head>
     <title>Edit Inventory</title>
 </head>
-
 <body>
-<h1> ${product} ${sku} </h1>
+<form>
+    Product:  <input type="text" size="40" name="product" value="${product}"/>
+    <p> sku:  <input type="text" size="40" name="sku" value="${sku}" />
+</form>
 
 </body>
 </html>
