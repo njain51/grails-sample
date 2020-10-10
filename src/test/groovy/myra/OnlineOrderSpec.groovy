@@ -3,7 +3,7 @@ package myra
 import grails.testing.gorm.DomainUnitTest
 import spock.lang.Specification
 
-class OrderSpec extends Specification implements DomainUnitTest<Order> {
+class OnlineOrderSpec extends Specification implements DomainUnitTest<OnlineOrder> {
 
     def setup() {
     }

@@ -44,8 +44,10 @@ notes/1.6_adding_model.md
 ----------------------------------------------------------------------------------------------------------------
 notes/2.0_Designing_data_layer.md
 
-Tag 2.0 - Adding Domain Design and respective domain classes and field types. 
-
+Tag 2.0 - Adding Domain Design and respective domain classes and field types. Also established relationship between various domain classes. 
+        - added hasMany or belongsto relationship between domain classes as per diagram. 
+        
+**Access database here:** http://localhost:8080/h2-console/
 ---------------------------------------------------------------------------------------------------------------- 
   
 ---------------------------------------------------------------------------------------------------------------- 
