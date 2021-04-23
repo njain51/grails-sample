@@ -10,5 +10,9 @@ class Award {
 
 
     static constraints = {
+
+        awardDate()
+        type()
+        points()
     }
 }

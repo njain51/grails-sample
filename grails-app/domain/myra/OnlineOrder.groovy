@@ -12,5 +12,10 @@ class OnlineOrder {
 
 
     static constraints = {
+
+        orderNumber()
+        orderDate()
+        orderTotal()
+
     }
 }

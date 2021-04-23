@@ -8,5 +8,8 @@ class OrderItem {
 
 
     static constraints = {
+        quantity()
+        totalPrice()
+
     }
 }

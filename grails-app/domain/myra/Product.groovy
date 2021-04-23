@@ -10,6 +10,11 @@ class Product {
 
 
     static constraints = {
+        name()
+        sku()
+        price()
+
+
     }
 
 

@@ -13,5 +13,13 @@ class Customer {
 
 
     static constraints = {
+
+        phone()
+        firstName()
+        lastName()
+        email()
+        total()
+
+
     }
 }
