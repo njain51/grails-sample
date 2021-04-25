@@ -14,8 +14,8 @@ class OnlineOrder {
     static constraints = {
 
         orderNumber()
-        orderDate()
-        orderTotal()
+        orderDate(nullable: true)
+        orderTotal(nullable: true)
 
     }
 }

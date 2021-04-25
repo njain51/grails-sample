@@ -8,8 +8,8 @@ class OrderItem {
 
 
     static constraints = {
-        quantity()
-        totalPrice()
+        quantity(nullable: false)
+        totalPrice(nullable: false)
 
     }
 }

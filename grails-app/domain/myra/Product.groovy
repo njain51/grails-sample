@@ -11,8 +11,8 @@ class Product {
 
     static constraints = {
         name()
-        sku()
-        price()
+        sku(nullable: true)
+        price(nullable: true)
 
 
     }

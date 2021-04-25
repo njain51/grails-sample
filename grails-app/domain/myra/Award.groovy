@@ -11,8 +11,8 @@ class Award {
 
     static constraints = {
 
-        awardDate()
-        type()
-        points()
+        awardDate(nullable: false)
+        type(nullable: true, inList: ["Purchase", "Reward"])
+        points(nullable: true)
     }
 }
